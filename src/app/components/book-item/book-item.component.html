@@ -1,0 +1,6 @@
+<nz-card nzHoverable style="width:240px" [nzCover]="coverTemplate">
+    <nz-card-meta [nzTitle]="book.title" [nzDescription]="book.auteur + ' '+book.price"></nz-card-meta>
+</nz-card>
+<ng-template #coverTemplate>
+    <img class="upper-range-image" [alt]="book.title + ' cover'" [src]="book.image" />
+</ng-template>

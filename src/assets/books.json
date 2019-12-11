@@ -1,0 +1,151 @@
+[
+    { 
+        "auteur":"J.K Rowling",
+        "catégorie":"science fiction",
+        "title": "Harry Potter à l’école des sorciers",
+        "synopsis": " Le jour de ses onze ans, Harry Potter, un orphelin élevé par un oncle et une tante qui le détestent, voit son existence bouleversée. Un géant vient le chercher pour l'emmener au collège Poudlard, école de sorcellerie où une place l'attend depuis toujours. Qui est donc Harry Potter ? Et qui est l'effroyable V..., le mage dont personne n'ose prononcer le nom ?",
+        "price": "35dt",
+        "image": "/assets/images/1.jpg"
+    },
+    { 
+
+        "auteur":"J.K Rowling",
+        "catégorie":"science fiction",
+        "title": "Harry Potter et la chambre des secrets",
+        "synopsis": "De retour chez les horribles Dursley, pour le temps des vacances, Harry Potter ne souhaite qu'une chose, pouvoir retourner dès que possible à Poudlard, l'école de sorcellerie. Après une rentrée en voiture volante, Harry doit déjouer une malédiction qui s'abat sur les élèves de Poudlard et qui serait liée à une ancienne chambre des secrets. Version grand format et illustrée du roman",
+        "price": "40dt",
+        "image": "/assets/images/2.jpg"
+    },
+    { 
+        
+        "auteur":"J.K Rowling",
+        "catégorie":"science fiction",
+        "title": "Harry Potter et le prisonnier d’azkaban",
+        "synopsis": "  Sirius Black, le dangereux criminel qui s'est échappé de la forteresse d'Azkaban, recherche Harry Potter. Suivez Harry dans sa 3ème année à Poudlard.",
+        "price": "40dt",
+        "image": "/assets/images/3.jpg"
+    },
+    { 
+
+        "auteur":"Guillaume Musso",
+        "catégorie":"Romance",
+        "title": "7 ans après",
+        "synopsis": "Après un divorce orageux, Nikki et Sebastian ont refait leur vie, très loin l'un de l'autre. Jusqu'au jour où leur fils Jeremy disparaît mystérieusement. Fugue ? Kidnapping? Pour sauver ce qu'elle a de plus cher, Nikki n'a d'autre choix que de se tourner vers son ex-mari qu'elle n'a pas revu depuis sept ans. Contraints d'unir leurs forces, ils s'engagent alors dans une course-poursuite, retrouvant une intimité qu'ils croyaient perdue à jamais...",
+        "price": "28dt",
+        "image": "/assets/images/4.jpg"
+    },
+    { 
+        "auteur":"Guillaume Musso",
+        "catégorie":"Romance ",
+        "title": "L’instant présent",
+        "synopsis": "  Pour payer ses études d’art dramatique, Lisa travaille dans un bar de Manhattan. Un soir, elle y fait la connaissance d’Arthur Costello, un jeune médecin urgentiste. En apparence, Arthur a tout pour plaire et Lisa n’est pas insensible à son charme.Mais Arthur n’est pas un homme comme les autres. Deux ans plus tôt, il a hérité de la résidence de son grand-père : un vieux phare isolé dans lequel une pièce a été condamnée. Malgré sa promesse, Arthur a choisi d’ouvrir la porte, découvrant une vérité bouleversante qui lui interdit de mener une vie normale. Sa rencontre avec Lisa va tout changer et lui redonner une raison d’espérer. Dès lors, Arthur et Lisa n’ont qu’une obsession, déjouer les pièges que leur impose le plus impitoyable des ennemis : le temps.",
+        "price": "30dt",
+        "image": "/assets/images/5.jpg"
+    },
+    { 
+        "auteur":"Guillaume Musso",
+        "catégorie":"Romance ",
+        "title": "Demain",
+        "synopsis": "Emma vit à New York. À 32 ans, elle continue de chercher l’homme de sa vie. Matthew habite à Boston. Il a perdu sa femme dans un terrible accident et élève seul sa fille de quatre ans. Ils font connaissance grâce à Internet et bientôt, leurs échanges de mails les laissent penser qu’ils ont enfin droit au bonheur. Désireux de se rencontrer, ils se donnent rendez-vous dans un petit restaurant italien de Manhattan. Le même jour à la même heure, ils poussent chacun à leur tour la porte du restaurant. Ils sont conduits à la même table et pourtant… ils ne se croiseront jamais.Jeu de mensonges ? Fantasme de l’un ? Manipulation de l’autre ? Victimes d’une réalité qui les dépasse, Matthew et Emma vont rapidement se rendre compte qu’il ne s’agit pas d’un simple rendez-vous manqué… Le jour de ses onze ans, Harry Potter, un orphelin élevé par un oncle et une tante qui le détestent, voit son existence bouleversée. Un géant vient le chercher pour l'emmener au collège Poudlard, école de sorcellerie où une place l'attend depuis toujours. Qui est donc Harry Potter ? Et qui est l'effroyable V..., le mage dont personne n'ose prononcer le nom ?",
+        "price": "30dt",
+        "image": "/assets/images/6.jpg"
+    },
+    { 
+        "auteur":"Marc Levy",
+        "catégorie":"Romance",
+        "title": "Et si c’était vrai",
+        "synopsis": " Eté 1996 Lauren Kline, jeune interne dans un hôpital américain, est victime d’un accident de voiture qui la fait tomber dans le coma. Les deux internes des urgences qui arrivent sur les lieux de l’accident constatent son décès, mais les policiers qui se chargent du transport du corps de la jeune femme sont stupéfaits de voir qu’elle recommence à respirer. Ils l’emmènent alors à l’hôpital, où le chef de Lauren, Fernstein, déclare que sa mort cérébrale est irréversible. Il décide néanmoins de l’opérer suite à l’insistance des internes. L’un d’entre eux explique à Fernstein « comment derrière ses yeux restés ouverts il l’avait sentie lutter et refuser de s’engouffrer",
+        "price": "25dt",
+        "image": "/assets/images/7.jpg"
+    },
+    {
+        "auteur":"Marc Levy",
+        "catégorie":"Romance ",
+        "title": "Vous revoir",
+        "synopsis": " Si la vie offrait à Arthur et à Lauren une seconde chance de se revoir, sauraient-ils prendre tous les risques pour la saisir? Avec cette comédie romantique, Marc Levy retrouve les personnages de son premier roman, 'Et si c'était vrai'..., et nous entraîne dans une nouvelle aventure, faite d'humour et d'imprévus...Enfin, pour toutes celles et ceux qui l'attendaient, la suite de 'Et si c'était vrai'......",
+        "price": "28dt",
+        "image": "/assets/images/8.jpg"
+    },
+    { 
+        "auteur":"Agatha Christie",
+        "catégorie":"Policier/Thriller",
+        "title": "Le crime de l’orient express",
+        "synopsis": " Par le plus grand des hasards, Hercule Poirot se trouve dans la voiture de l’Orient-Express – ce train de luxe qui traverse l’Europe – où un crime féroce a été commis. Une des plus difficiles et des plus délicates enquêtes commence pour le fameux détective belge. Autour de ce cadavre, trop de suspects, trop d’alibis. Un train de luxe bloqué par la neige, un cadavre fardé de plusieurs coups de poignards. A Hercule Poirot de démasquer le coupable parmi les douze passagers du wagon.",
+        "price": "35dt",
+        "image": "/assets/images/9.jpg"
+    },
+    { 
+        "auteur":"Stephen King",
+        "catégorie":"Policier/Thriller",
+        "title": "L’institut",
+        "synopsis": " Aussi terrifiant que Charlie et aussi puissant que Ça, Stephen King revient avec une saisissante histoire d'enfants luttant contre des forces obscures. Dans ce combat du Bien contre le Mal, qui, cette fois, l'emportera ?",
+        "price": "35dt",
+        "image": "/assets/images/10.jpg"
+    },
+    {
+        "auteur":"James Ellroy",
+        "catégorie":"Policier/Thriller ",
+        "title": "La tempête qui vient",
+        "synopsis": " Le deuxième volet du nouveau Quatuor de Los Angeles ! Janvier 1942 : Los Angeles est encore sous le choc de l'attaque de Pearl Harbour, les Américains d'origine japonaise sont massivement arrêtés, des pluies torrentielles s'abattent sur la ville, et un corps est découvert dans Griffith Park à la faveur d'un glissement de terrain.",
+        "price": "31dt",
+        "image": "/assets/images/11.jpg"
+    },
+    { 
+        "auteur":"Molière",
+        "catégorie":"Pièce de théâtre",
+        "title": " Les fourberies de Scapin",
+        "synopsis": "  Durant l'absence de son père, Argante, Octave a épousé une jeune fille pauvre et de naissance inconnue, Hyacinte. Étant donné que les projets du père étaient de lui faire épouser la fille de son ami Géronte, Octave craint le retour d'Argante.  Sylvestre, le valet d'Octave et complice de cette union secrète, est inquiet lui aussi. Aussi la venue de Scapin remonte le moral de tout le monde. Ce dernier promet aux jeunes gens de les aider.Géronte apprend à son tour le mariage d'Octave et accuse Argante d'avoir mal élevé son fils. Puis Argante retourne l'accusation vers son ami, car son fils aussi s'est engagé envers une égyptienne, Zerbinette, qu'il aime. Sachant que sa liaison a été rapportée à son pére par Scapin, Léandre menace le traître. Entre temps, Zerbinette se fait enlever par les Égyptiens qui demandent une rançon. C'est grâce à Scapin que le jeune homme réussit à obtenir l'argent de son père. A la fin, tout devient clair et merveilleux. On découvre que Hyacinte est en réalité la fille de Géronte, et que Zerbinette n'est autre que la fille d'Argante, enlevée dès l'enfance par les Égyptiens.",
+        "price": "18dt",
+        "image": "/assets/images/12.jpg"
+    },
+    {
+        "auteur":" Molière",
+        "catégorie":"Pièce de théâtre",
+        "title": "Le malade imaginaire",
+        "synopsis": "  Un mariage arrangé, des amours contrariées, une belle-mère cupide et un bourgeois abusé par des imposteurs… Molière a réuni tous les ingrédients d'une comédie réussie.  Quels sont les ressorts du comique ? Qui ridiculise-t-il allègrement dans sa dernière pièce ?",
+        "price": "15dt",
+        "image": "/assets/images/13.jpg"
+    },
+    { 
+        "auteur":"Sylvie Yvert",
+        "catégorie":"Roman historique",
+        "title": " Mousseline la sérieuse",
+        "synopsis": "Née en 1778, Marie-Thérèse Charlotte de France, fille de Louis XVI et Marie-Antoinette, avait un destin tout tracé, à commencer par une enfance heureuse et dorée au Château de Versailles, régie par une éducation stricte et raffinée. Mais les tourments et tumultes de la Révolution couvent...jusqu'à la fatidique prise de la Bastille. Personnage méconnu et fascinant de l'Histoire de France, Mousseline la Sérieuse est le journal imaginaire d'une femme fière et digne marquée par le sceau de l'opprobre, mais qui jamais ne renonça à faire éclater sa vérité.",
+        "price": "23dt",
+        "image": "/assets/images/14.jpg"
+    },
+    {
+        
+        "auteur":"Ken Follett",
+        "catégorie":" Roman historique",
+        "title": " Les pilliers de la Terre",
+        "synopsis": "  En Angleterre, au XIIe siècle ravagée par la guerre et la famine, des êtres luttent pour s'assurer le pouvoir, la gloire, la sainteté, l'amour, ou simplement de quoi survivre. Les batailles sont féroces, les hasards prodigieux, la nature cruelle. Les fresques se peignent à coups d'épée, les destins se taillent à coups de hache et les cathédrales se bâtissent à coups de miracles… et de saintes ruses. La haine règne, mais l'amour aussi, malmené constamment, blessé parfois, mais vainqueur enfin quand un Dieu, à la vérité souvent trop distrait, consent à se laisser toucher par la foi des hommes.",
+        "price": "21dt",
+        "image": "/assets/images/15.jpg"
+    },
+    {
+        "auteur":"Tim Willocks",
+        "catégorie":" Roman historique",
+        "title": " La religion",
+        "synopsis": " La Religion, c'est le nom que se donne l'ordre des Hospitaliers, mais c'est aussi la bannière sous laquelle se rallie parfois la folie des hommes. En 1565, claustrés sur leur petit archipel au sud de la Sicile, les chevaliers de Malte s'apprêtent à recevoir les furieux assauts de l'armée ottomane. À un contre cinq, les chrétiens tiennent le siège au prix de combats effroyables. Un déchaînement de violence dans lequel se trouve entraîné Mattias Tannhäuser, un ancien janissaire qui a connu les deux camps. Pour les beaux yeux de la comtesse Carla La Penautier, le trafiquant d'armes et d'opium embarque pour l'enfer.",
+        "price": "27.5dt",
+        "image": "/assets/images/16.jpg"
+    },
+    {
+        "auteur":"Jacques Attali",
+        "catégorie":"  Documentaire",
+        "title": "  L'année des dupes Alger 1943",
+        "synopsis": "Le récit d’un épisode incroyable, trop souvent censuré, de l’histoire de France, de l’histoire de l’Algérie et de celle de la Seconde Guerre mondiale. 1943. Une extraordinaire année de dupes, qui éclaire d’un jour nouveau la situation géopolitique mondiale d’aujourd’hui.  C’est d’abord l’histoire des Juifs d’Algérie qui reçurent, en 1870, la citoyenneté française et qui subirent ensuite des discriminations plus intenses encore que partout ailleurs en France, trouvant leur apogée dans les trois années de domination pétainiste en Algérie. Des Juifs à qui deux gouvernements français successifs retirèrent leur citoyenneté  : un gouvernement collaborant avec les nazis  ; puis un autre, dont on ne parle jamais, collaborant avec les Américains. Des Juifs à qui des dirigeants français, hors de toute présence allemande, se préparaient à faire porter des étoiles jaunes et qu’ils s’apprêtaient à enfermer dans des camps de concentration sahariens.",
+        "price": "29dt",
+        "image": "/assets/images/17.jpg"
+    },
+    {
+        "auteur":"Dominique Lormier",
+        "catégorie":" Documentaire",
+        "title": "Les vérités cachées de la seconde guerre mondiale",
+        "synopsis": "Cet ouvrage captivant, reposant sur des documents et des témoignages inédits, balaie de nombreux clichés : la France et ses Alliés pouvaient gagner la guerre en 1940 ; les Français sont tous des collabos et des antisémites ; la Résistance française est surestimée et a été inefficace ; Mussolini a toujours été acquis au nazisme ; le débarquement et la bataille de Normandie sont avant tout une victoire américaine... Dominique Lormier revient sur ces affirmations et révèle ici quelques-unes des vérités cachées de cette période cruciale du xxe siècle.",
+        "price": "36.7dt",
+        "image": "/assets/images/18.jpg"
+    }
+    
+]

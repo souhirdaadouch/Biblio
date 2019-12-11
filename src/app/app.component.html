@@ -1,0 +1,31 @@
+<nz-layout style="height: 100% !important;">
+  <nz-header>
+    <div class="logo"></div>
+    <ul nz-menu nzTheme="dark" nzMode="horizontal">
+      <li nz-menu-item nzMatchRouter routerLink="books"> Books </li>
+      <li nz-menu-item nzMatchRouter> Novels</li>
+      <li nz-menu-item class="pull-right">
+
+        <span *ngIf="authService.isLoggedIn()" (click)="logout()">
+          <i nz-icon nzType="logout" nzTheme="outline"></i>
+        </span>
+      </li>
+      <li nz-menu-item class="pull-right" *ngIf="authService.isLoggedIn()">
+
+        <span>{{authService.getEmail()}}</span>
+      </li>
+      <li nz-menu-item class="pull-right" *ngIf="!authService.isLoggedIn()" routerLink="login">
+        <span>Log in</span>
+      </li>
+      <li nz-menu-item class="pull-right"><i nz-icon nzType="shopping" nzTheme="outline"></i></li>
+    </ul>
+  </nz-header>
+  
+      <div class="inner-content">
+        
+        <router-outlet>
+         
+        </router-outlet>
+      </div>
+    
+</nz-layout>

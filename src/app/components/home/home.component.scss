@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .container img {vertical-align: middle;}
+  
+  .container .content {
+    position: absolute;
+   top: 50px;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    h1,h2{
+        color: #f1f1f1;
+        font-size: 36px;
+        
+    }
+    button{
+        color: coral;
+    }
+  }
